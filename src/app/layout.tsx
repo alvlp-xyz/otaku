@@ -8,7 +8,7 @@ import { ListEpisodeProvider } from '@/context/ListEpisodeCtx';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Ryzendesu',
+  title: 'Nekonux',
   description: 'Nonton anime subs Indonesia gratis',
   generator: "Next.js",
   manifest: "/manifest.json",

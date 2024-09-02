@@ -3,12 +3,12 @@ import React from 'react';
 
 const Page: React.FC = () => {
 
-    const apk = 'https://ryzenshare.vercel.app/Ryzen1/ryzendesu.com/Wibu-Verse/Ryzendesu.V2.4.stable.apk';
+    const apk = 'https://ryzenshare.vercel.app/Ryzen1/Nekonux.com/Wibu-Verse/Nekonux.V2.4.stable.apk';
 
     return (
         <div className="flex items-center justify-center h-screen">
             <div className="text-center">
-                <h1 className="text-4xl font-bold mb-6">Ryzendesu APK</h1>
+                <h1 className="text-4xl font-bold mb-6">Nekonux APK</h1>
                 <p className="text-lg mb-4">
                     Download versi terbaru disini.
                 </p>
